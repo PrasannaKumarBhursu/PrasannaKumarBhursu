@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm B.PrasannaKumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
- 🔭 I’m currently working on **Course Selling website ( Nextjs )**
+ 🔭 I’m currently working on **Udemy Selling website ( Nextjs )**
 
  🌱 I’m currently learning **MachineLearning , Nextjs ,Typescript**
 
@@ -36,7 +36,8 @@
 
 ## Top Repositories
 
-- [CrowdFunding](https://github.com/PrasannaKumarBhursu/CrowdFunding) - A Decentralized platform for crowdfunding projects.
+- [Udemy-NextJs](https://github.com/PrasannaKumarBhursu/nextjs-udemy.git) - Course selling  platform  built using Nextjs.
+- [CourseEra](https://github.com/PrasannaKumarBhursu/Coursera.git) - End to End  MERN stack application 
 - [Nxt_trendz](https://github.com/PrasannaKumarBhursu/Nxt_trendz) - An eCommerce platform built using React.
 
 
