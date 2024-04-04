@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm B.PrasannaKumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
- 🔭 I’m currently working on **CrowdFunding DAPP**
+ 🔭 I’m currently working on **Course Selling website ( Nextjs )**
 
- 🌱 I’m currently learning **Typescript , web3.js**
+ 🌱 I’m currently learning **MachineLearning ,Typescript**
 
- 👯 I’m looking to collaborate on **BlockChain Full stack Projects**
-
- 🤝 I’m looking for help to **develop CrowdFunding DAPP**
+ 👯 I’m looking to collaborate on **AI Full stack Projects**
 
  👨‍💻 All of my projects are available at [https://github.com/PrasannaKumarBhursu](https://github.com/PrasannaKumarBhursu)
 
- 💬 Ask me about **React , Python ,Solidity**
+ 💬 Ask me about **NextJs , ReactJs , Python ,**
 
  📫 How to reach me **bhursuprasannakumar@gmail.com**
 
