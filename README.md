@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on **Course Selling website ( Nextjs )**
 
- 🌱 I’m currently learning **MachineLearning ,Typescript**
+ 🌱 I’m currently learning **MachineLearning , Nextjs ,Typescript**
 
  👯 I’m looking to collaborate on **AI Full stack Projects**
 
@@ -13,7 +13,6 @@
 
  📫 How to reach me **bhursuprasannakumar@gmail.com**
 
- ⚡ Fun fact **I am lazy but smart**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasannakumarbhursu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prasannabhursu) 
