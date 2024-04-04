@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm B.PrasannaKumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
- 🔭 I’m currently working on **Udemy Selling website ( Nextjs )**
+ 🔭 I’m currently working on **Udemy - Course Selling ( Nextjs )**
 
  🌱 I’m currently learning **MachineLearning , Nextjs ,Typescript**
 
